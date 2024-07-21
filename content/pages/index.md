@@ -9,16 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Compute Science Graduate
     text: "A Computer Science graduate with interest and experience in both Software Development\_\U0001F4BB\_and Game Development \U0001F3AE\_and passion in Cloud Computing\_☁️\n"
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
