@@ -7,7 +7,7 @@ sections:
       text: "I am\_ \_ \_ \_ \_ \_ \_ \_ \_ Salem Al-Ansari"
       color: text-dark
       type: TitleBlock
-    subtitle: Software Engineer / Game Developer
+    subtitle: Compute Science Graduate
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
