@@ -45,7 +45,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Qatar University
-        tagline: This is the tagline
+        tagline: August 2020 - May 2024
         subtitle: Bachelor's of Science in Computer Science
         text: |
           Follow the tutorial to build your first Netlify Create site.
