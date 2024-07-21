@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Compute Science Graduate
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "A Computer Science graduate with interest and experience in both Software Development\_![](https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4bb.png)\_and Game Development\_![](https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f3ae.png)\_with passion in Cloud Computing\_![](https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/2601.png)\n\n"
     actions:
       - label: Get started
         altText: ''
