@@ -67,6 +67,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            borderStyle: dotted
     actions: []
     badge:
       label: This is a badge
