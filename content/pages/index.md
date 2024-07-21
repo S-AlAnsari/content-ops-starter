@@ -46,7 +46,7 @@ sections:
       - type: FeaturedItem
         title: Qatar University
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Bachelor's of Science in Computer Science
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
