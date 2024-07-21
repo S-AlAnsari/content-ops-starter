@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Compute Science Graduate
-    text: "A Computer Science graduate with interest and experience in both Software Development\_![](https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4bb.png)\_and Game Development\_![](https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f3ae.png)\_with passion in Cloud Computing\_![](https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/2601.png)\n\n"
+    text: "A Computer Science graduate with interest and experience in both Software Development\_\U0001F4BB\_and Game Development \U0001F3AE\_with passion in Cloud Computing\_☁️\n"
     actions:
       - label: Get started
         altText: ''
