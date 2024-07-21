@@ -76,7 +76,7 @@ sections:
           textAlign: center
       type: Badge
     elementId: ''
-    variant: small-list
+    variant: big-list
     colors: bg-neutral-fg-dark
     styles:
       self:
