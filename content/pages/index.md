@@ -52,7 +52,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/qu.d48873795528ea6bda44.png
-          altText: Placeholder text
+          altText: Qatar University Logo
           styles:
             self:
               borderRadius: x-large
