@@ -7,6 +7,9 @@ sections:
       text: "I am\_ \_ \_ \_ \_ \_ \_ \_ \_ Salem Al-Ansari"
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: Compute Science Graduate
     text: "A Computer Science graduate with interest and experience in both Software Development\_\U0001F4BB\_and Game Development \U0001F3AE\_and passion in Cloud Computing\_☁️\n"
     actions: []
