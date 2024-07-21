@@ -69,7 +69,7 @@ sections:
             flexDirection: row
             borderStyle: dotted
             margin:
-              - mb-12
+              - mb-0
     actions: []
     badge:
       label: This is a badge
