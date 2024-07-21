@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Compute Science Graduate
-    text: "A Computer Science graduate with interest and experience in both Software Development\_\U0001F4BB\_and Game Development \U0001F3AE\_with passion in Cloud Computing\_☁️\n"
+    text: "A Computer Science graduate with interest and experience in both Software Development\_\U0001F4BB\_and Game Development \U0001F3AE\_and passion in Cloud Computing\_☁️\n"
     actions:
       - label: Get started
         altText: ''
