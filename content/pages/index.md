@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: I amSalem Al-Ansari
+      text: I am Salem Al-Ansari
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
