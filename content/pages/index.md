@@ -43,35 +43,6 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - type: FeaturedItem
-        title: Qatar University
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/qu.d48873795528ea6bda44.png
-          styles:
-            self:
-              borderRadius: x-large
       - title: 200%
         subtitle: Faster
         text: >-
