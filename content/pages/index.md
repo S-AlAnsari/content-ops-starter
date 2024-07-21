@@ -68,6 +68,8 @@ sections:
             borderRadius: x-large
             flexDirection: row
             borderStyle: dotted
+            margin:
+              - mb-12
     actions: []
     badge:
       label: This is a badge
