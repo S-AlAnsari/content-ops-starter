@@ -47,8 +47,14 @@ sections:
         title: Qatar University
         tagline: August 2020 - May 2024
         subtitle: Bachelor's of Science in Computer Science
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          Managed and Developed a VR educational game for the Senior Project.
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/qu.d48873795528ea6bda44.png
